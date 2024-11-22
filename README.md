@@ -3,12 +3,12 @@
 ## About Me
 
 Hi, I'm Jyoti Mishra 
-I am an **aspiring AWS Architect** with a passion for learning and building innovative cloud solutions. Currently, I am exploring the vast ecosystem of **AWS services** and enhancing my skills in cloud architecture, security, and DevOps practices.  
+I am an **aspiring AWS Architect** with a passion for learning and building innovative cloud solutions. Currently, I am exploring the vast ecosystem of **AWS services** and enhancing my skills in cloud architecture, security, and best practices.  
 
 ## What I Do
 - 📖 **Learning AWS**: Building a strong foundation in core services like EC2, S3, Lambda, and RDS.  
 - 💡 **Experimenting with Projects**: Exploring real-world use cases to apply my knowledge.  
-- 🚀 **Expanding Skills**: Gaining expertise in Terraform, CloudFormation, and serverless technologies.  
+- 🚀 **Expanding Skills**: Gaining expertise in Hubspot, Project Libre, and serverless technologies.  
 
 ## My Interests
 - 🌐 Cloud computing and scalable solutions  
