@@ -11,9 +11,9 @@ I am an **aspiring AWS Architect** with a passion for learning and building inno
 - 🚀 **Expanding Skills**: Gaining expertise in Hubspot, Project Libre, and serverless technologies.  
 
 ## My Interests
-- 🌐 Cloud computing and scalable solutions  
-- 🔒 Cloud security and compliance  
-- 🤝 Collaborating on open-source projects  
+- 🌐 *Cloud computing and scalable solutions*  
+- 🔒 *Cloud security and compliance*
+- 🤝 *Collaborating on open-source projects*
 
 ## Let's Connect!
 Feel free to explore my repositories, provide feedback, or collaborate on exciting projects. Together, let's make an impact in the cloud computing world!  
